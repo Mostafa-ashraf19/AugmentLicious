@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context=".MainActivity">
+
+    <fragment
+            android:id="@+id/fragment"
+            android:name="com.google.ar.sceneform.ux.ArFragment"
+            android:layout_width="match_parent"
+            android:layout_height="590dp"/>
+    <Button android:id="@+id/button2"
+            android:text="Check Other Meals"
+            android:textAllCaps="false"
+            android:layout_alignParentBottom="true"
+            android:layout_width="399dp"
+            android:layout_height="70dp"
+            android:layout_marginBottom="81dp" android:layout_centerVertical="true"/>
+    <Button android:id="@+id/button3"
+            android:text="Take The Order"
+            android:textAllCaps="false"
+            android:layout_alignParentBottom="true"
+            android:layout_centerInParent="true"
+            android:layout_width="399dp"
+            android:layout_height="70dp"
+            android:layout_marginBottom="11dp"/>
+
+
+</RelativeLayout>
