@@ -11,7 +11,7 @@ Our project will be a mobile application that detects our menu pages and then sh
 
 ## Demo
 
-- Here's a YouTube [video]() that shows our project.
+- Here's a YouTube [video](https://youtu.be/xd7kKOBJ3AU) that shows our project.
 
 ## Getting Started 
 
