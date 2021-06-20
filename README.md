@@ -4,9 +4,9 @@
 
 ## Project Description
 
-	project is a project that aims to maximize the best user experience in food restaurants, the whole idea revolves around not only being able to imagine your plate by knowing every ingredient but leave nothing to your imagination by using augmented reality and pattern detection algorithms to make your menu come alive right through your phone screen, our concept is that luxury shouldn’t be a luxury anymore with the rising technologies, customer can provide easier feedback, restaurants also are benefited that customers are less likely to choose a plate that they won’t eventually. 
+project is a project that aims to maximize the best user experience in food restaurants, the whole idea revolves around not only being able to imagine your plate by knowing every ingredient but leave nothing to your imagination by using augmented reality and pattern detection algorithms to make your menu come alive right through your phone screen, our concept is that luxury shouldn’t be a luxury anymore with the rising technologies, customer can provide easier feedback, restaurants also are benefited that customers are less likely to choose a plate that they won’t eventually. 
 
-	Our project will be a mobile application that detects our menu pages and then shows us an augmented menu of the plates on this page by detecting only the written pages of our menu and then can order the plate through the application, customizes the order as he/she wishes (adding ingredients, removing ingredients, meal size, sides ..etc.) saving the hassle of the waiter forgetting the order details and the annoyance of the wait for the waiter to order the plate. Customers may also pay for their meals through the application by using software technologies by using their credit/debit cards. This application is integrating the home ordering experience with the restaurant's order-in experience.
+Our project will be a mobile application that detects our menu pages and then shows us an augmented menu of the plates on this page by detecting only the written pages of our menu and then can order the plate through the application, customizes the order as he/she wishes (adding ingredients, removing ingredients, meal size, sides ..etc.) saving the hassle of the waiter forgetting the order details and the annoyance of the wait for the waiter to order the plate. Customers may also pay for their meals through the application by using software technologies by using their credit/debit cards. This application is integrating the home ordering experience with the restaurant's order-in experience.
 
 
 ## Demo
@@ -31,15 +31,15 @@
 
 ## UML Sequence Diagram
 
-	![UML]()
+![UML](https://raw.githubusercontent.com/Mostafa-ashraf19/AugmentLicious/main/Imgs/sc4.png)
 
 ## Public View and Example From program
 
-	![SC1]()
+![SC1](https://github.com/Mostafa-ashraf19/AugmentLicious/blob/main/Imgs/sc1.jpg)
 	
-	![SC2]()
+![SC2](https://github.com/Mostafa-ashraf19/AugmentLicious/blob/main/Imgs/sc2.jpg)
 	
-	![SC3]()
+![SC3](https://github.com/Mostafa-ashraf19/AugmentLicious/blob/main/Imgs/sc3.jpg)
  
 
 
