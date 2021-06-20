@@ -8,6 +8,7 @@ project is a project that aims to maximize the best user experience in food rest
 
 Our project will be a mobile application that detects our menu pages and then shows us an augmented menu of the plates on this page by detecting only the written pages of our menu and then can order the plate through the application, customizes the order as he/she wishes (adding ingredients, removing ingredients, meal size, sides ..etc.) saving the hassle of the waiter forgetting the order details and the annoyance of the wait for the waiter to order the plate. Customers may also pay for their meals through the application by using software technologies by using their credit/debit cards. This application is integrating the home ordering experience with the restaurant's order-in experience.
 
+[Project Documentation](https://github.com/Mostafa-ashraf19/AugmentLicious/blob/main/doc/AugmentLicious%20Document.pdf)
 
 ## Demo
 
